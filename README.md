@@ -5,6 +5,5 @@ Cuztomize the simbologies in QGIS
 
    ```{url}
    https://raw.githubusercontent.com/ambarja/SimbologyMDA/main/mda.xml
-
    ```
 
