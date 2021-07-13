@@ -1,7 +1,7 @@
 ## **Simbology MDA**
-Cuztomize the simbologies in QGIS
+Customize the simbologies in QGIS
 
-- copy and page in styles administrator
+- copy and paste in styles administrator
 
    ```{url}
    https://raw.githubusercontent.com/ambarja/SimbologyMDA/main/mda.xml
